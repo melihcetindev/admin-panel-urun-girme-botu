@@ -32,5 +32,5 @@ Bu projeye katkıda bulunmak isterseniz, lütfen GitHub'da bir çekme isteği (p
 
 Not: Bu proje yalnızca eğitim ve öğrenme amaçları için oluşturulmuştur. Başkalarının sistemlerini otomatize etmek veya izinsiz erişim sağlamak amacıyla kullanılmasını teşvik etmiyoruz.
 
-GitHub Repo Lisansı
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
