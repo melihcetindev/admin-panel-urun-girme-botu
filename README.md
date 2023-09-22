@@ -17,25 +17,18 @@ Bu proje, bir admin paneline otomasyon eklemek için kullanabileceğiniz bir Pyt
 
 1. Python 3.x'i [Python Resmi Web Sitesi'nden indirin](https://www.python.org/downloads/).
 
-2. Proje klasörünüzde bir sanal ortam (virtual environment) oluşturun:
+2. bot.py dosyasını düzenleyerek veritabanını, kullanıcı adınızı ve şifrenizi ayarlayın.
 
-   ```bash
-   python -m venv venv
-Sanal ortamı etkinleştirin:
-
-Kullanım
-bot.py dosyasını düzenleyerek veritabanını, kullanıcı adınızı ve şifrenizi ayarlayın.
-
-Botu çalıştırın:
-
+3. Dosyayı düzenleyerek veritabanını, kullanıcı adınızı ve şifrenizi ayarlayın.
+   
+4. Botu çalıştırın:
    ```bash
    python bot.py
+
 
 Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen GitHub'da bir çekme isteği (pull request) gönderin. İlgili değişiklikleri ve eklemeleri açıklamayı unutmayın.
 
-Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
 
 Not: Bu proje yalnızca eğitim ve öğrenme amaçları için oluşturulmuştur. Başkalarının sistemlerini otomatize etmek veya izinsiz erişim sağlamak amacıyla kullanılmasını teşvik etmiyoruz.
 
