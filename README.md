@@ -1,4 +1,4 @@
-# Admin Panel Ürün Giriş Botu
+# Admin Panel Ürün Girme Botu
 
 Bu proje, bir admin paneline otomasyon eklemek için kullanabileceğiniz bir Python botunu içerir. Bu bot, ürün bilgilerini veritabanına eklemek veya güncellemek gibi yaygın görevleri otomatikleştirmenize yardımcı olabilir.
 
@@ -28,9 +28,3 @@ Bu proje, bir admin paneline otomasyon eklemek için kullanabileceğiniz bir Pyt
 
 Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen GitHub'da bir çekme isteği (pull request) gönderin. İlgili değişiklikleri ve eklemeleri açıklamayı unutmayın.
-
-
-Not: Bu proje yalnızca eğitim ve öğrenme amaçları için oluşturulmuştur. Başkalarının sistemlerini otomatize etmek veya izinsiz erişim sağlamak amacıyla kullanılmasını teşvik etmiyoruz.
-
-![GitHub Repo Lisansı](https://img.shields.io/github/license/kullanici/repoadi)
-
