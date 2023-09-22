@@ -23,30 +23,13 @@ Bu proje, bir admin paneline otomasyon eklemek için kullanabileceğiniz bir Pyt
    python -m venv venv
 Sanal ortamı etkinleştirin:
 
-Windows için:
-
-bash
-Copy code
-venv\Scripts\activate
-macOS ve Linux için:
-
-bash
-Copy code
-source venv/bin/activate
-Gerekli bağımlılıkları yükleyin:
-
-bash
-Copy code
-pip install -r requirements.txt
-Konfigürasyon dosyasını düzenleyin ve botu çalıştırmaya başlayın.
-
 Kullanım
 bot.py dosyasını düzenleyerek veritabanını, kullanıcı adınızı ve şifrenizi ayarlayın.
 
 Botu çalıştırın:
 
-bash
-python bot.py
+   ```bash
+   python bot.py
 
 Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen GitHub'da bir çekme isteği (pull request) gönderin. İlgili değişiklikleri ve eklemeleri açıklamayı unutmayın.
